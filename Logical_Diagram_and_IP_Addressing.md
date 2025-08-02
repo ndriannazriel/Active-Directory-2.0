@@ -4,7 +4,7 @@ This document provides a visual overview of the project's network architecture a
 
 ## Logical Diagram
 
-Here is the logical diagram illustrating the network topology and the relationship between the different virtual machines in the lab environment.
+Here is the logical diagram illustrating the network topology and the relationship between the different virtual machines.
 ![LogicalDiagram](images/LogicalDiagram.jpg)
 
 
